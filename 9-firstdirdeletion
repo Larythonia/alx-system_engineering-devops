@@ -1,0 +1,2 @@
+#!/binbash
+rmdir my_first_directory/tmp
